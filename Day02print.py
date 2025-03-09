@@ -1,0 +1,8 @@
+print ("Hello Lia! - Nice to meet you!")
+print (4)
+print ("4")
+print ("Hello", "World")
+print ("My name is eddie")
+print ("I'm from germany")
+print ("I like basketball")
+print (" My name is eddie\n I'm from germany\n I like basketball ")
